@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+### Welcome to My Home Page!
+I am Ziheng Liu, a Ph.D. student at the School of Computer Science, College of Computing, Georgia Institute of Technology.
 
-You can use the [editor on GitHub](https://github.com/Libero0809/lzh.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### My Research
+I am advised by Professor Jun Xu.
+My current research topic is coding theory's application in networks and databases.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Publications
+- Gong, L., Liu, Z., Liu, L., Xu, J., Ogihara, M., & Yang, T. (2020). [<em>Space-and computationally-efficient set reconciliation via parity bitmap sketch (PBS)</em>](http://vldb.org/pvldb/vol14/p458-gong.pdf). Proceedings of the VLDB Endowment, 14(4), 458-470.
+- Li, D., Du, R., Liu, Z., Yang, T., & Cui, B. (2019, April). [<em>Multi-copy cuckoo hashing</em>](https://www.researchgate.net/profile/Dagang-Li-2/publication/333320343_Multi-copy_Cuckoo_Hashing/links/5cf72569a6fdcc8475063d18/Multi-copy-Cuckoo-Hashing.pdf). In 2019 IEEE 35th International Conference on Data Engineering (ICDE) (pp. 1226-1237). IEEE.
 
-### Markdown
+### Contact Me
+Email: zliu(3 * 4 * 5 * 13) at gatech dot edu ([Looking for a calculator?](https://www.google.com/search?q=3*4*5*13))  
+Office: 3337 Klaus Advanced Computing Building, GaTech
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Libero0809/lzh.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### About Me
+I grew up in Shanghai, China, and received my Bachelor's Degree from Peking University in 2020.
+I started to pursue my Ph.D. Degree at Georgia Tech in 2021, delayed by COVID-19 pandemic.
+![](https://i.imgur.com/asPumzD.jpg)
