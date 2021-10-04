@@ -16,4 +16,4 @@ Office: 3337 Klaus Advanced Computing Building, GaTech
 ### About Me
 I grew up in Shanghai, China, and received my Bachelor's Degree from Peking University in 2020.
 I started to pursue my Ph.D. Degree at Georgia Tech in 2021, delayed by COVID-19 pandemic.
-![](https://i.imgur.com/asPumzD.jpg)
+![](me.jpg)
