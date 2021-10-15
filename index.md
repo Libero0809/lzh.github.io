@@ -2,7 +2,7 @@
 I am Ziheng Liu, a Ph.D. student at the School of Computer Science, College of Computing, Georgia Institute of Technology.
 
 ### My Research
-I am advised by Professor [Jun Xu](https://www.cc.gatech.edu/~jx/).
+I am advised by Professor [<em>Jun Xu</em>](https://www.cc.gatech.edu/~jx/).
 My current research topic is coding theory's application in networks and databases.
 
 ### Publications
