@@ -1,19 +1,21 @@
 ### Welcome to My Home Page!
-I am Ziheng Liu, a Ph.D. student at the School of Computer Science, College of Computing, Georgia Institute of Technology.
+I am Ziheng Liu, a Ph.D. student at Kahlert School of Computing, the University of Utah.
 
 ### My Research
-I am advised by Professor [<em>Jun Xu</em>](https://www.cc.gatech.edu/~jx/).
-My current research topic is coding theory's application in networks and databases.
+I am advised by Professor [<em>Yin Yang</em>](https://yangzzzy.github.io/).
+My current research topic is physics-based simulation of cloth and deformable bodies.
 
 ### Publications
+#### Computer Network and Database
 - Gong, L., Liu, Z., Liu, L., Xu, J., Ogihara, M., & Yang, T. (2020). [<em>Space-and computationally-efficient set reconciliation via parity bitmap sketch (PBS)</em>](http://vldb.org/pvldb/vol14/p458-gong.pdf). Proceedings of the VLDB Endowment, 14(4), 458-470.
 - Li, D., Du, R., Liu, Z., Yang, T., & Cui, B. (2019, April). [<em>Multi-copy cuckoo hashing</em>](https://www.researchgate.net/profile/Dagang-Li-2/publication/333320343_Multi-copy_Cuckoo_Hashing/links/5cf72569a6fdcc8475063d18/Multi-copy-Cuckoo-Hashing.pdf). In 2019 IEEE 35th International Conference on Data Engineering (ICDE) (pp. 1226-1237). IEEE.
 
 ### Contact Me
-Email: zliu(3 * 4 * 5 * 13) at gatech dot edu ([<em>Need a calculator?</em>](https://www.google.com/search?q=3*4*5*13))  
-Office: 3337 Klaus Advanced Computing Building, GaTech
+Email: first_name.last_name at utah dot edu
+
+Office: 3335 Merrill Engineering Building, U of U
 
 ### About Me
-I grew up in Shanghai, China, and received my Bachelor's Degree from Peking University in 2020.
-I started to pursue my Ph.D. Degree at Georgia Tech in 2021, delayed by COVID-19 pandemic.
+I grew up in Shanghai, China, and received my Bachelor's Degree from Peking University, China in 2020.
+Before moving to the U of U and changing my research area to computer graphics in 2022 Fall, I was studying computer networks at Georgia Tech.
 ![](me.jpg)
